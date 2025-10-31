@@ -51,6 +51,7 @@ a:hover {
 .hero-img img {
 	width: 100%;
 	height: auto;
+	
 }
 
 .hero-title {
@@ -79,38 +80,6 @@ a:hover {
 	font-size: 22px;
 	line-height: 30px;
 	color: #404040;
-}
-
-.author-img , .author-meta{
-	display: inline-block;
-	vertical-align: top;
-}
-.author-img {
-	margin-right: 10px;
-	width: 60px;
-	height: 60px;
-	border-radius: 100px;
-	overflow: hidden;
-}
-
-.author-img img{
-	max-width: 100%;
-	height: auto;
-}
-
-.author-meta span{ 
-	display: block;
-}
-
-.author-name {
-	font-size: 18px;
-	margin-top: 5px;
-	font-weight: bold;
-}
-
-.author-tag {
-	font-size: 14px;
-	color: #818181;
 }
 
 .article-card {
